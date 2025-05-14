@@ -38,10 +38,10 @@ ___
 Документация оформлялась после выполнения задач в виде md-файлов.
 
 **Это отражено в следующих коммитах:**
-- [Git] (мая)
-- [Сайт] (мая)
-- [Организация-партнер] (мая)
-- [Индивидуальное кафедральное задание] (мая)
+- [Git](https://github.com/KolesnikovaIrina412/praktica/commit/1e071d52a54c99459d7e456f0fb1aee35f418bad) (8 мая)
+- [Сайт](https://github.com/KolesnikovaIrina412/praktica/commit/a57d09eacd004c381db28d4bef9a0241d071f93c) (12 мая)
+- [Организация-партнер](https://github.com/KolesnikovaIrina412/praktica/commit/091ec214b17712d291f3b6ed0db51b22d07b66ec) (14 мая)
+- [Индивидуальное кафедральное задание](https://github.com/KolesnikovaIrina412/praktica/commit/0ba2fa9543a0f93d0be5ce0c4b5a385b69c31469) (14мая)
 
 ___
 
