@@ -49,7 +49,7 @@
 
 - ![Готовый сайт](media/static_website/site_3.png).
 - ![Готовый сайт](media/static_website/site_4.png).
-- 
+  
 **Это отражено в следующем коммите:**
 - [site](https://github.com/KolesnikovaIrina412/praktica/commit/ebb3f23ad2e3b07aa253a49c57441b3d13a924e7);
 
