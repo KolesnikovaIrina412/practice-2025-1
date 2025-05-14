@@ -19,5 +19,5 @@
 После этого, в тот же день, была завершена работа над заполнением  и редактированием основных README.md файлов в репозитории.
 
 **Это отражено в следующих коммитах:**
-- [Заполнение README и черновой сайт](https://github.com/CDarvian/practice-2025/commit/d34db6952615b1136a12e179e660c88cc70a335f);
-- [Дополнение README](https://github.com/CDarvian/practice-2025/commit/235d5ff974ac955e68cb967948b04749c52caedd);
+- [Код готового сайта](https://github.com/KolesnikovaIrina412/praktica/commit/a26d2fdc023d9404ba1d643017834fb096e32fac);
+- [Дополнение README](https://github.com/KolesnikovaIrina412/praktica/commit/23841f4624e9388e32640e946146f21e6d19472c);
